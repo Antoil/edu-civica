@@ -1,0 +1,10 @@
+.hero{
+    width: 100vw;
+    min-height: 100vh;
+    position: relative;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
