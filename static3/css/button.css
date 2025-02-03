@@ -3,10 +3,10 @@
     justify-content: space-between;
 }
 
-.button a{
+.button a input{
     display: block;
     font-size: 30px;
-    color: #080C71;
+    color: #000;
     text-decoration: none;
     background-color: #FFF;
     line-height: 1;
@@ -17,7 +17,8 @@
 }
 
 .button{
-    margin-top: 55px;
+    margin-top: 30px;
     border-top: 3px solid #FFF;
     padding-top: 44.5px;
+    margin-left: 15px;
 }
